@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  .login-container {
+    width: 300px;
+    margin: 0 auto;
+  }
+  
+  input, button {
+    display: block;
+    margin: 10px 0;
+    padding: 8px;
+    width: 100%;
+  }
+  
+  .products {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .product {
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 150px;
+  }
